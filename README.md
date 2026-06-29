@@ -249,11 +249,6 @@ Used for:
 
 ## 👨‍💻 Author
 
-**Asraf Ali**
-
-* GitHub: https://github.com/asrafali72
-* LinkedIn: https://linkedin.com/in/your-linkedin-username
-* Email: [asarafali066@gmail.com](mailto:asarafali066@gmail.com)
 
 ---
 
