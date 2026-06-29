@@ -249,7 +249,11 @@ Used for:
 
 ## 👨‍💻 Author
 
+**Sumit Kumar**
 
+- GitHub: https://github.com/sumitsingh6010
+- LinkedIn: https://www.linkedin.com/in/sumit-kumar-9a086128b/
+- Email: sumit841231singh@gmail.com
 ---
 
 ## 📄 License
